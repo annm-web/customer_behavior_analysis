@@ -216,6 +216,3 @@ Customer-Shopping-Behavior-Analysis/
 
 **Ann Mary Paul**
 
-Aspiring Data Analyst | Python | SQL | PostgreSQL | Power BI | Data Visualization
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
